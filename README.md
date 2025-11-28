@@ -1,4 +1,4 @@
-# 🚀 Smart Resume Analyzer
+# 🚀 AI Resume Pro
 
 An AI-powered resume analysis and interview preparation platform built using **Flask**, **Gemini AI**, and a custom rule-based evaluation engine.
 Upload your resume → Get instant ATS scoring, insights, interview questions, and a personalized career roadmap.
